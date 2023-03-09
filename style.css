@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  margin: 20px 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+header .menu {
+  display: flex;
+  gap: 20px;
+}
